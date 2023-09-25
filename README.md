@@ -1,5 +1,10 @@
 # cse-2102
 
+# Lab 1
+
+
+# Lab 0
+
 First, we start by cloning the local repositories 
 
 to clone this repo in your terminal we put
@@ -17,5 +22,6 @@ after making sure we are in the right directory we compile and run the java code
 compile: ```javac TestMe.java```
 
 run: ```java TestMe```
+
 
 
